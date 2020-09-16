@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+此文件由 Web 项目的发布/打包过程使用。可以通过编辑此 MSBuild 文件
+自定义此过程的行为。为了解与此相关的更多内容，请访问 https://go.microsoft.com/fwlink/?LinkID=208121。 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>E:\发布\QsApi</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/AutoMapper.dll">
+      <publishTime>01/04/2020 17:27:21</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.dll">
+      <publishTime>01/04/2020 17:27:21</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.SqlServer.dll">
+      <publishTime>01/04/2020 17:27:21</publishTime>
+    </File>
+    <File Include="bin/EPPlus.dll">
+      <publishTime>04/19/2020 02:35:38</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>01/04/2020 17:46:00</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Mvc.FixedDisplayModes.dll">
+      <publishTime>01/04/2020 17:27:21</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>01/04/2020 17:47:46</publishTime>
+    </File>
+    <File Include="bin/NLog.dll">
+      <publishTime>12/24/2016 00:36:58</publishTime>
+    </File>
+    <File Include="bin/NPinyin.dll">
+      <publishTime>02/16/2020 03:14:22</publishTime>
+    </File>
+    <File Include="bin/Sys.Pass.MessageSend.dll">
+      <publishTime>03/19/2020 12:46:36</publishTime>
+    </File>
+    <File Include="bin/Sys.Pss.Common.dll">
+      <publishTime>06/03/2020 13:59:48</publishTime>
+    </File>
+    <File Include="bin/Sys.Pss.Common.dll.config">
+      <publishTime>12/21/2019 01:42:42</publishTime>
+    </File>
+    <File Include="bin/Sys.Pss.Common.pdb">
+      <publishTime>06/03/2020 13:59:48</publishTime>
+    </File>
+    <File Include="bin/Sys.Pss.Dal.dll">
+      <publishTime>06/03/2020 11:40:00</publishTime>
+    </File>
+    <File Include="bin/Sys.Pss.Dal.dll.config">
+      <publishTime>05/16/2020 12:30:24</publishTime>
+    </File>
+    <File Include="bin/Sys.Pss.Dal.pdb">
+      <publishTime>06/03/2020 11:40:00</publishTime>
+    </File>
+    <File Include="bin/Sys.Pss.QsApi.dll">
+      <publishTime>06/04/2020 10:26:32</publishTime>
+    </File>
+    <File Include="bin/Sys.Pss.QsApi.pdb">
+      <publishTime>06/04/2020 10:26:32</publishTime>
+    </File>
+    <File Include="bin/Sys.Pss.Server.dll">
+      <publishTime>06/04/2020 10:26:32</publishTime>
+    </File>
+    <File Include="bin/Sys.Pss.Server.dll.config">
+      <publishTime>12/21/2019 21:12:46</publishTime>
+    </File>
+    <File Include="bin/Sys.Pss.Server.pdb">
+      <publishTime>06/04/2020 10:26:32</publishTime>
+    </File>
+    <File Include="bin/Sys.Pss.View.dll">
+      <publishTime>06/03/2020 10:06:44</publishTime>
+    </File>
+    <File Include="bin/Sys.Pss.View.pdb">
+      <publishTime>06/03/2020 10:06:44</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Formatting.dll">
+      <publishTime>01/04/2020 17:44:58</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>01/04/2020 17:27:21</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.dll">
+      <publishTime>01/04/2020 17:27:21</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.WebHost.dll">
+      <publishTime>01/04/2020 17:27:21</publishTime>
+    </File>
+    <File Include="bin/System.Web.Mvc.dll">
+      <publishTime>01/04/2020 17:27:21</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>01/04/2020 17:27:21</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Deployment.dll">
+      <publishTime>01/04/2020 17:27:21</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.dll">
+      <publishTime>01/04/2020 17:27:21</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Razor.dll">
+      <publishTime>01/04/2020 17:27:21</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>03/12/2020 18:32:41</publishTime>
+    </File>
+    <File Include="nlog.config">
+      <publishTime>06/03/2020 12:28:58</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>06/03/2020 09:56:57</publishTime>
+    </File>
+    <File Include="Views/Web.config">
+      <publishTime>03/12/2020 18:32:41</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>06/03/2020 12:31:45</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
